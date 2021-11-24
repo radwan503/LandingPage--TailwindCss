@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="70px" viewBox="0 0 61 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-edits-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Creation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-397.000000, -3767.000000)" id="icons-features">
+            <g transform="translate(245.000000, 3673.000000)">
+                <g id="v1" transform="translate(47.000000, 94.000000)">
+                    <g id="1">
+                        <g id="icon-edits-2" transform="translate(106.000000, 1.000000)">
+                            <path d="M49.2,8 L0,8" id="Path" stroke="#458AFA" stroke-width="1.5"></path>
+                            <circle id="Oval" fill="#458AFA" fill-rule="nonzero" cx="6.05" cy="4.05" r="1.05"></circle>
+                            <circle id="Oval" fill="#458AFA" fill-rule="nonzero" cx="10.05" cy="4.05" r="1.05"></circle>
+                            <circle id="Oval" fill="#458AFA" fill-rule="nonzero" cx="14.05" cy="4.05" r="1.05"></circle>
+                            <path d="M50,50.8 L50,64 C50,66.209139 48.209139,68 46,68 L4,68 C1.790861,68 0,66.209139 0,64 L0,4 C0,1.790861 1.790861,0 4,0 L46,0 C48.209139,0 50,1.790861 50,4 L50,34" id="Path" stroke="#458AFA" stroke-width="1.5"></path>
+                            <path d="M32.27,56.4999999 C33.3745695,56.4999999 34.27,57.3954305 34.27,58.4999999 L34.27,59.04 C34.2834803,59.5790423 34.0787328,60.1006904 33.702189,60.4866478 C33.3256452,60.8726052 32.8092108,61.0901685 32.27,61.0900001 L17.55,61.0900001 C16.4178163,61.0900001 15.5,60.1721837 15.5,59.04 L15.5,58.4999999 C15.5271449,57.3873895 16.4370585,56.4996689 17.55,56.4999999 L32.27,56.4999999 Z M32.27,55 L17.55,55 C15.5893891,55 14,56.5893891 14,58.55 L14,59.09 C14,61.0506109 15.5893891,62.64 17.55,62.64 L32.27,62.64 C34.2211804,62.6289841 35.795543,61.0412036 35.7900146,59.09 L35.7900146,58.55 C35.7926571,57.6094022 35.4208672,56.7064182 34.7567002,56.040375 C34.0925332,55.3743319 33.1906016,55 32.25,55 L32.27,55 Z" id="Shape" fill="#458AFA" fill-rule="nonzero"></path>
+                            <path d="M20,59 L29.74,59 M8,14 L43,14 M15,20 L33.9,20" id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round"></path>
+                            <path d="M42,34 L42,32 M42,28 L42,26 L40,26" id="Shape" stroke="#458AFA" stroke-width="1.5"></path>
+                            <path d="M36.26,26 L13,26" id="Path" stroke="#458AFA" stroke-width="1.5" stroke-dasharray="4.23"></path>
+                            <polyline id="Path" stroke="#458AFA" stroke-width="1.5" points="10 26 8 26 8 28"></polyline>
+                            <path d="M8,33 L8,39.3" id="Path" stroke="#458AFA" stroke-width="1.5" stroke-dasharray="4.2"></path>
+                            <polyline id="Path" stroke="#458AFA" stroke-width="1.5" points="8 41 8 43 10 43"></polyline>
+                            <path d="M15,43 L21.4,43" id="Path" stroke="#458AFA" stroke-width="1.5" stroke-dasharray="4.27"></path>
+                            <path d="M23,43 L25,43 M29.14,35 L58.84,35 L58.84,51.6 L25,51.6 L25,38.94" id="Shape" stroke="#458AFA" stroke-width="1.5"></path>
+                            <circle id="Oval" stroke="#458AFA" stroke-width="1.5" cx="25.14" cy="34.14" r="4.14"></circle>
+                            <circle id="Oval" fill="#458AFA" fill-rule="nonzero" cx="25.05" cy="34.05" r="1.05"></circle>
+                            <path d="M34,49.5 L53,49.5 M34,45.5 L46,45.5" id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="70px" viewBox="0 0 60 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-template</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Creation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-800.000000, -3767.000000)" id="icons-features">
+            <g transform="translate(245.000000, 3673.000000)">
+                <g id="v1" transform="translate(47.000000, 94.000000)">
+                    <g id="2" transform="translate(403.000000, 0.000000)">
+                        <g id="icon-template" transform="translate(106.000000, 1.000000)">
+                            <rect id="Rectangle-path" stroke="#458AFA" stroke-width="1.5" x="8.47" y="0" width="49.45" height="59.36" rx="1.39"></rect>
+                            <path d="M52.58,59.74 L52.58,62.4 C52.58,63.1731986 51.9531986,63.8 51.18,63.8 L5.67,63.8 C4.89680135,63.8 4.27,63.1731986 4.27,62.4 L4.27,4.82 C4.27,4.04680135 4.89680135,3.42 5.67,3.42 L7.77,3.42" id="Shape" stroke="#458AFA" stroke-width="1.5"></path>
+                            <path d="M3.57,7.62 L1.47,7.62 C0.704544969,7.62 0.0809350679,8.23462308 0.07,9 L0.07,66.6 C0.07,67.3731986 0.69680135,68 1.47,68 L47,68 C47.7731986,68 48.4,67.3731986 48.4,66.6 L48.4,63.94" id="Shape" stroke="#458AFA" stroke-width="1.5"></path>
+                            <path d="M8.47,5.44 L57.93,5.44" id="Shape" stroke="#458AFA" stroke-width="1.5"></path>
+                            <path d="M17.84,3.42 C17.4534007,3.42 17.14,3.10659932 17.14,2.72 C17.14,2.33340068 17.4534007,2.02 17.84,2.02 C18.2265993,2.02 18.54,2.33340068 18.54,2.72 C18.54,3.10659932 18.2265993,3.42 17.84,3.42" id="Shape" fill="#458AFA" fill-rule="nonzero"></path>
+                            <path d="M15,3.42 C14.6134007,3.42 14.3,3.10659932 14.3,2.72 C14.3,2.33340068 14.6134007,2.02 15,2.02 C15.3865993,2.02 15.7,2.33340068 15.7,2.72 C15.7,3.10659932 15.3865993,3.42 15,3.42" id="Shape" fill="#458AFA" fill-rule="nonzero"></path>
+                            <path d="M12.25,3.42 C11.9660016,3.42405753 11.7077032,3.25610466 11.5961986,2.99488008 C11.4846941,2.7336555 11.5420896,2.43094768 11.7414772,2.22867037 C11.9408648,2.02639306 12.2427155,1.96464826 12.5055174,2.07238282 C12.7683192,2.18011738 12.939971,2.43597264 12.94,2.72 C12.9400391,3.10272752 12.6326885,3.41453247 12.25,3.42" id="Shape" fill="#458AFA" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-path" stroke="#458AFA" stroke-width="1.5" x="13.05" y="25.04" width="40.23" height="22.39"></rect>
+                            <path d="M16.4,12.53 L50,12.53" id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M23.86,18.83 L42.53,18.83" id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M24.71,53.38 L42.16,53.38" id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polygon id="Shape" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round" points="53.28 38.86 44.36 29.94 26.87 47.43 53.03 47.43 53.28 47.43"></polygon>
+                            <polygon id="Shape" stroke="#458AFA" stroke-width="1.5" points="18.91 47.43 29.41 36.93 33.39 40.91 26.87 47.43"></polygon>
+                            <circle id="Oval" stroke="#458AFA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="23.48" cy="31.68" r="2.55"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
